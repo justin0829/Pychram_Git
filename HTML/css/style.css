@@ -1,0 +1,8 @@
+/* ----------------------banner----------------------- */
+#banner 
+
+/* ----------------------导航栏----------------------- */
+.menu {width: 100%; background: #003aaf;}
+.menu ul {width: 341px;height: 50px;margin: 0 auto;padding: 0;}
+.menu ul li {float: left;display: block;text-align: center;width: 320px;height: 21px;}
+.menu ul li a {color:#af484f;text-decoration: none;}
