@@ -17,4 +17,3 @@ for x in (list):
 	
 	
 print("hahah,能运行吗？？？")
-
