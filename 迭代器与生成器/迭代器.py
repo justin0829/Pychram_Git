@@ -14,3 +14,7 @@ list = [1 , 2 , 3 , 4]
 it = iter(list)
 for x in (list):
     print(x , end=" ")
+	
+	
+print("hahah,能运行吗？？？")
+
