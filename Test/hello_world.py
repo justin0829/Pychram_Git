@@ -10,9 +10,3 @@
 @Software :  PyCharm
 """
 print("Hello World!!!")
-<<<<<<< HEAD
-import 
-=======
-
-from appium import  webdriver
->>>>>>> 1c72771380c1f3d880e3acaad3f0dd019b1cc66e
