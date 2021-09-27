@@ -18,3 +18,6 @@ for x in (list):
 	
 print("hahah,能运行吗？？？")
 print("咋回事呢？？")
+
+
+print("试一下")
